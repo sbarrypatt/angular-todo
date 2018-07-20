@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/sbarrypatt/angular-todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "angular": "^1.7.2",
+    "angular-route": "^1.7.2"
+  }
+}
